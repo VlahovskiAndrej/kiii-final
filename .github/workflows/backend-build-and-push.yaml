@@ -37,4 +37,4 @@ jobs:
       with:
         context: ./Airbnb
         push: true
-        tags: sandrageorgiev/api:docker
+        tags: andrejvlahovski/api:docker

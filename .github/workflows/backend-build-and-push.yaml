@@ -3,7 +3,7 @@ name: Build and Push Main Backend Image
 on:
   push:
     paths:
-      - 'Airbnb/**'
+      - 'Airbnb-Project/Airbnb/**'
 
 jobs:
   build:
